@@ -1,4 +1,4 @@
-# SoC8614
+# CORE
 
 Single-technology IP library.
 

@@ -1,4 +1,4 @@
-# SoC8614
+# POR
 
 Single-technology IP library.
 

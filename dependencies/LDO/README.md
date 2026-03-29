@@ -1,4 +1,4 @@
-# SoC8614
+# LDO
 
 Single-technology IP library.
 

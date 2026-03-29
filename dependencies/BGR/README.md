@@ -1,4 +1,4 @@
-# SoC8614
+# BGR
 
 Single-technology IP library.
 
